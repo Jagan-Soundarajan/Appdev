@@ -1,0 +1,32 @@
+.homebody
+{
+       /* background-image: url("https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&w=600"); */
+       background-size: cover;
+       height: 98vh;
+       background-repeat: no-repeat;
+       text-align: center;
+}
+.hbox1
+{
+       display: flex;
+       justify-content: space-evenly;
+       padding: 7%;
+       backdrop-filter: blur(50px);
+}
+.hbox2
+{
+       display: flex;
+       justify-content: space-evenly;
+       padding: 7%;
+       
+}
+.htext
+{
+       justify-content: left;
+       color: white;
+       font-size: x-large;
+       margin-right: 10%;
+}
+.tex{
+       font-size: larger;
+}

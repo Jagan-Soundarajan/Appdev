@@ -1,0 +1,28 @@
+.cart-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    padding: 20px;
+    background-color: #f5f5f5;
+  }
+  
+  .cart-details {
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+  }
+  
+  .cart-details .MuiListItem-root {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .cart-details .MuiTypography-root {
+    margin-top: 20px;
+  }
+  
+  .cart-details .MuiButton-containedPrimary {
+    margin-top: 20px;
+  }

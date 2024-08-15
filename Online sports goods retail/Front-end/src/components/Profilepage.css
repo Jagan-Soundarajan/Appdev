@@ -1,0 +1,55 @@
+.ppage {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.profile-header {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+}
+
+.MuiPaper-root {
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 2rem;
+    margin: auto;
+    margin-top: 2rem;
+    width: 80%;
+}
+
+.MuiButton-containedPrimary {
+    background-color: #007BFF;
+    color: #fff;
+    margin-top: 1rem;
+}
+
+.MuiButton-containedPrimary:hover {
+    background-color: #0056b3;
+}
+
+.profile-details {
+    text-align: left;
+    padding-left: 2rem;
+}
+
+.profile-avatar {
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+    max-height: 150px;
+    margin: auto;
+}
+
+.profile-info {
+    text-align: left;
+    margin-left: 2rem;
+}
+
+.profile-info h4 {
+    margin-bottom: 0.5rem;
+}
+
+.profile-info p {
+    margin-bottom: 0.25rem;
+}
